@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> API-3-DOG IMAGES</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <style>
+
+        body{
+            background-color:rgb(5, 7, 6);
+        }
+        .dog{
+            padding: 10px;
+        }
+        .row{
+            padding: 50px;
+            margin: 20px;
+        }
+        img{
+            width: 200px;
+            height: 200px;
+            border: 2px solid rgb(4, 3, 6);
+            border-radius: 20px;
+        }
+        button{
+            text-align: center;
+            color: #4babb6;
+            margin: 30px;
+
+        }
+        .design{
+            padding: 50px;
+            background-color:rgb(14, 219, 246);
+            border: 2px solid rgb(161, 194, 199);
+            border-radius: 20px;
+
+        }
+        h1{
+            text-align: center;
+            background-color: rgb(14, 219, 246);
+            font-family: 'Saira Condensed', sans-serif;
+            padding: 30px;
+
+        }
+
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>DOG IMAGES</h1> 
+    </header>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
